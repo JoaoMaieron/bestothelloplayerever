@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<othello-match>
+	<timing start="Sat Mar  6 20:05:33 2021" finish="Sat Mar  6 20:05:53 2021"/>
+	<player1 directory="bestplayer" color="B" result="loss" score="0"/>
+	<player2 directory="randomplayer" color="W" result="win" score="6"/>
+	<moves>
+		<move coord="5,3" color="W"/>
+		<move coord="2,5" color="W"/>
+	</moves>
+</othello-match>
